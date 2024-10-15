@@ -4,7 +4,7 @@
 I faced some issues with my Windows version, so I completed my assignment using an online compiler.
 I have added the code in the README file on GitHub for submission.</span>
 
-#include<iostream><br>
+#include <iostream><br>
 using namespace std;<br>
 int main(){<br>
     int a1=2;<br>
@@ -17,5 +17,5 @@ int main(){<br>
     cout<<mul<<endl;<br>
     int div=a1/b2;<br>
     cout<<div<<endl;<br>    
-}
+}<br>
 ![Capture](https://github.com/user-attachments/assets/9ce5e301-ca36-42db-b513-d5a6f28116dd)
