@@ -17,6 +17,6 @@ int main(){<br>
     int mul=a1*b2;<br>
     cout<<mul<<endl;<br>
     int div=a1/b2;<br>
-    cout<<div<<endl;<br>    
-}<br>
+    cout<<div<<endl;<br>   
+    }<br>
 ![Capture](https://github.com/user-attachments/assets/9ce5e301-ca36-42db-b513-d5a6f28116dd)
