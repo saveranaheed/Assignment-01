@@ -20,4 +20,5 @@ int main(){<br>
     int div=a1/b2;<br>
     cout<<div<<endl;<br>   
     }<br>
-![Capture](https://github.com/user-attachments<img src="URL_or_Path_to_Image" alt="Alt Text" width="200" />
+<img src="URL_or_Path_to_Image" alt="Alt Text" width="200" />
+
