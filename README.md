@@ -20,5 +20,7 @@ int main(){<br>
     int div=a1/b2;<br>
     cout<<div<<endl;<br>   
     }<br>
-<img src="C:\Users\Home\Pictures" alt="Alt Text" width="200" />
+###output
+![Capture](https://github.com/user-attachments/assets/2a0da945-4c4e-447b-ab2c-eca371d38a83)
+
 
